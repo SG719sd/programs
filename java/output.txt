@@ -1,0 +1,105 @@
+
+******************************
+
+Title
+
+******************************
+
+
+******************************
+
+no mod
+
+******************************
+
+*	import java io BufferedReader;
+*	import java io FileReader;
+*	import java io FileWriter;
+*	import java io IOException;
+*	import java util ArrayList;
+*	import java util List;
+*	
+
+******************************
+
+maiusc
+
+******************************
+
+*	IMPORT JAVA IO BUFFEREDREADER;
+*	IMPORT JAVA IO FILEREADER;
+*	IMPORT JAVA IO FILEWRITER;
+*	IMPORT JAVA IO IOEXCEPTION;
+*	IMPORT JAVA UTIL ARRAYLIST;
+*	IMPORT JAVA UTIL LIST;
+*	
+
+******************************
+
+min
+
+******************************
+
+*	import java io bufferedreader;
+*	import java io filereader;
+*	import java io filewriter;
+*	import java io ioexception;
+*	import java util arraylist;
+*	import java util list;
+*	
+
+******************************
+
+underscore
+
+******************************
+
+*	import_java_io_bufferedreader;
+*	import_java_io_filereader;
+*	import_java_io_filewriter;
+*	import_java_io_ioexception;
+*	import_java_util_arraylist;
+*	import_java_util_list;
+*	
+
+******************************
+
+camelCase
+
+******************************
+
+*	importJavaIoBufferedreader;
+*	importJavaIoFilereader;
+*	importJavaIoFilewriter;
+*	importJavaIoIoexception;
+*	importJavaUtilArraylist;
+*	importJavaUtilList;
+*	
+
+******************************
+
+maiusc + underscore
+
+******************************
+
+*	IMPORT_JAVA_IO_BUFFEREDREADER;
+*	IMPORT_JAVA_IO_FILEREADER;
+*	IMPORT_JAVA_IO_FILEWRITER;
+*	IMPORT_JAVA_IO_IOEXCEPTION;
+*	IMPORT_JAVA_UTIL_ARRAYLIST;
+*	IMPORT_JAVA_UTIL_LIST;
+*	
+
+******************************
+
+min + underscore
+
+******************************
+
+*	import_java_io_bufferedreader;
+*	import_java_io_filereader;
+*	import_java_io_filewriter;
+*	import_java_io_ioexception;
+*	import_java_util_arraylist;
+*	import_java_util_list;
+*	
